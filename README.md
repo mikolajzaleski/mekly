@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @mekly
-- 👀 I’m interested in programming, literature, astronomy
-- 🌱 I’m currently learning python and c++
 
 
 <!---
